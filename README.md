@@ -32,5 +32,3 @@ Tujuannya adalah untuk menampilkan **profil pribadi, Interest, project, serta ko
 - **Footer**
   - Informasi hak cipta dan keterangan project.
 
-🧩
-
